@@ -6,6 +6,7 @@
 //
 
 
+
 //used to feed data to views
 class DamageData
 {
